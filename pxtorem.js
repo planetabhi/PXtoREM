@@ -83,6 +83,7 @@ function convertDirectory() {
 }
 
 function start() {
+  console.log("root-em");
   rl.question(`
 Please select an option:
 A. PX to REM converter
