@@ -1,0 +1,17 @@
+{
+  "name": "pxtorem",
+  "version": "1.0.0",
+  "description": "Convert between px and rem units.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node pxtorem.js"
+  },
+  "keywords": ["px", "rem", "converter", "css", "scss"],
+  "author": "@planetabhi",
+  "files": [
+    "main.js",
+    "pxtorem.js",
+    "converter.js"
+  ],
+  "license": "MIT"
+}
