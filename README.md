@@ -1,7 +1,15 @@
 # PXtoREM
 
+### Install
+
 ```
 npm i -g pxtorem
+```
+
+### Usage
+
+```
+pxtorem
 ```
 
 - Convert between px and rem.
